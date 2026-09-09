@@ -1,114 +1,142 @@
 [
   {
     "src": "assets/media/images/althea/Althea_Eclipse_Canonical_City_View.webp",
-    "label": "Althea Eclipse Canonical City View"
+    "label": "Althea Eclipse Canonical City View",
+    "status": "canonical"
   },
   {
     "src": "assets/media/images/althea/Althea_Eclipse_Canonical_Combat.webp",
-    "label": "Althea Eclipse Canonical Combat"
+    "label": "Althea Eclipse Canonical Combat",
+    "status": "canonical"
   },
   {
     "src": "assets/media/images/althea/Althea_Eclipse_Canonical_Full_Front.webp",
-    "label": "Althea Eclipse Canonical Full Front"
+    "label": "Althea Eclipse Canonical Full Front",
+    "status": "canonical"
   },
   {
     "src": "assets/media/images/althea/Althea_Eclipse_Canonical_Quarter_View.webp",
-    "label": "Althea Eclipse Canonical Quarter View"
+    "label": "Althea Eclipse Canonical Quarter View",
+    "status": "canonical"
   },
   {
     "src": "assets/media/images/althea/Althea_Eclipse_Canonical_Rear_View.webp",
-    "label": "Althea Eclipse Canonical Rear View"
+    "label": "Althea Eclipse Canonical Rear View",
+    "status": "canonical"
   },
   {
     "src": "assets/media/images/althea/Althea_Eclipse_Canonical_Reference_Sheet.webp",
-    "label": "Althea Eclipse Canonical Reference Sheet"
+    "label": "Althea Eclipse Canonical Reference Sheet",
+    "status": "canonical"
   },
   {
     "src": "assets/media/images/althea/Althea_Eclipse_Contemplation_Dawn.webp",
-    "label": "Althea Eclipse Contemplation Dawn"
+    "label": "Althea Eclipse Contemplation Dawn",
+    "status": "historical"
   },
   {
     "src": "assets/media/images/althea/Althea_Eclipse_Contemplation_Sunset_01.webp",
-    "label": "Althea Eclipse Contemplation Sunset 01"
+    "label": "Althea Eclipse Contemplation Sunset 01",
+    "status": "historical"
   },
   {
     "src": "assets/media/images/althea/Althea_Eclipse_Contemplation_Sunset_02.webp",
-    "label": "Althea Eclipse Contemplation Sunset 02"
+    "label": "Althea Eclipse Contemplation Sunset 02",
+    "status": "historical"
   },
   {
     "src": "assets/media/images/althea/Althea_Eclipse_Contemplation_Sunset_03.webp",
-    "label": "Althea Eclipse Contemplation Sunset 03"
+    "label": "Althea Eclipse Contemplation Sunset 03",
+    "status": "historical"
   },
   {
     "src": "assets/media/images/althea/Althea_Eclipse_Standing.webp",
-    "label": "Althea Eclipse Standing"
+    "label": "Althea Eclipse Standing",
+    "status": "historical"
   },
   {
     "src": "assets/media/images/althea/Althea_Post_Battle_Wine.jpg",
-    "label": "Althea Post Battle Wine"
+    "label": "Althea Post Battle Wine",
+    "status": "historical"
   },
   {
     "src": "assets/media/images/althea/Althea_Unmasked_Combat.jpg",
-    "label": "Althea Unmasked Combat"
+    "label": "Althea Unmasked Combat",
+    "status": "historical"
   },
   {
     "src": "assets/media/images/althea/Eclipse_Compasivo_Canonical_Breakdown.webp",
-    "label": "Eclipse Compasivo Canonical Breakdown"
+    "label": "Eclipse Compasivo Canonical Breakdown",
+    "status": "canonical"
   },
   {
     "src": "assets/media/images/althea/Eclipse_Compasivo_Canonical_Front.webp",
-    "label": "Eclipse Compasivo Canonical Front"
+    "label": "Eclipse Compasivo Canonical Front",
+    "status": "canonical"
   },
   {
     "src": "assets/media/images/althea/Eclipse_Compasivo_Design.jpg",
-    "label": "Eclipse Compasivo Design"
+    "label": "Eclipse Compasivo Design",
+    "status": "historical"
   },
   {
     "src": "assets/media/images/althea/Eclipse_de_Quietud_Combat_Positions_v1.png",
-    "label": "Eclipse de Quietud Combat Positions v1"
+    "label": "Eclipse de Quietud Combat Positions v1",
+    "status": "canonical"
   },
   {
     "src": "assets/media/images/party/Party_Campfire_Night.jpg",
-    "label": "Party Campfire Night"
+    "label": "Party Campfire Night",
+    "status": "wip"
   },
   {
     "src": "assets/media/images/party/Party_Character_Lineup.jpg",
-    "label": "Party Character Lineup"
+    "label": "Party Character Lineup",
+    "status": "rejected"
   },
   {
     "src": "assets/media/images/party/Party_Horseback_Overlook.jpg",
-    "label": "Party Horseback Overlook"
+    "label": "Party Horseback Overlook",
+    "status": "rejected"
   },
   {
     "src": "assets/media/images/party/Yaotl_and_Althea_Tavern.jpg",
-    "label": "Yaotl and Althea Tavern"
+    "label": "Yaotl and Althea Tavern",
+    "status": "wip"
   },
   {
     "src": "assets/images/aejaz.jpg",
-    "label": "Aejaz — referencia principal"
+    "label": "Aejaz — referencia principal",
+    "status": "wip"
   },
   {
     "src": "assets/images/areitan.jpg",
-    "label": "Areitan — referencia principal"
+    "label": "Areitan — referencia principal",
+    "status": "wip"
   },
   {
     "src": "assets/images/maeroval.jpg",
-    "label": "Maeroval — referencia principal"
+    "label": "Maeroval — referencia principal",
+    "status": "wip"
   },
   {
     "src": "assets/images/yaotl.jpg",
-    "label": "Yaotl — referencia principal"
+    "label": "Yaotl — referencia principal",
+    "status": "wip"
   },
   {
     "src": "assets/media/images/yaotl-armored.jpg",
-    "label": "Yaotl — retrato con protección"
+    "label": "Yaotl — retrato con protección",
+    "status": "wip"
   },
   {
     "src": "assets/media/images/yaotl-atmosphere.webp",
-    "label": "Yaotl — referencia atmosférica"
+    "label": "Yaotl — referencia atmosférica",
+    "status": "wip"
   },
   {
     "src": "assets/images/eirakar-map.webp",
-    "label": "Mapa canónico de Eirakar"
+    "label": "Mapa canónico de Eirakar",
+    "status": "canonical"
   }
 ]
