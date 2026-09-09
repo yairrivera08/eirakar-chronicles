@@ -1,0 +1,226 @@
+[
+  {
+    "id": "campaign-eirakar",
+    "category": "campaign",
+    "label": "Eirakar",
+    "title": "Eirakar Campaign Vault",
+    "excerpt": "Eirakar Campaign Vault Vault de campaña para llevar el conocimiento de Althea Galashield , sesiones, diario personal, personajes, lugares, casas, dioses, pistas, equipo, hechizos/habilidades observadas, recursos visuales",
+    "url": "content/campaign-eirakar.html"
+  },
+  {
+    "id": "character-althea-perfil",
+    "category": "character",
+    "label": "Althea: perfil",
+    "title": "Althea Galashield",
+    "excerpt": "Althea Galashield Identidad Especie: Alto Elfo Clase: Monje Subclase: Guerrero de la Misericordia Nivel: 4 Edad: 125 años Trasfondo mecánico actual: Marinera Origen narrativo: noble, erudita, monje y viajera Idiomas: Com",
+    "url": "content/character-althea-perfil.html"
+  },
+  {
+    "id": "character-althea-historia",
+    "category": "character",
+    "label": "Althea: historia",
+    "title": "Historia de Althea Galashield",
+    "excerpt": "Historia de Althea Galashield Origen Althea nació hace 125 años en la Casa Galashield, un antiguo linaje de altos elfos asentado en Caelithar, en el Reino de Elarion. Sin pertenecer a la realeza, generaciones de Galashie",
+    "url": "content/character-althea-historia.html"
+  },
+  {
+    "id": "character-eclipse-de-quietud",
+    "category": "character",
+    "label": "Eclipse de Quietud",
+    "title": "Eclipse de Quietud",
+    "excerpt": "Eclipse de Quietud Eclipse de Quietud es el nombre que Althea Galashield da a su manera personal de combatir. No es una subclase, feat, Fighting Style ni disciplina mecánica adicional: utiliza exclusivamente las reglas n",
+    "url": "content/character-eclipse-de-quietud.html"
+  },
+  {
+    "id": "people-personas-conocidas",
+    "category": "people",
+    "label": "Personas conocidas",
+    "title": "Personas conocidas",
+    "excerpt": "Personas conocidas Areitan Compañero de viaje de Althea. Ambos viajaron siete días a caballo hasta Nimvale. Elfo joven y exladrón. Huyó de la capital por circunstancias que Althea todavía no conoce por completo. Posee un",
+    "url": "content/people-personas-conocidas.html"
+  },
+  {
+    "id": "session-sesion-00",
+    "category": "session",
+    "label": "Sesión 00",
+    "title": "Sesión 0 — Preparación, reglas y regreso a la taberna",
+    "excerpt": "Sesión 0 — Preparación, reglas y regreso a la taberna Naturaleza de la sesión Esta grabación corresponde principalmente a una sesión de preparación y aprendizaje del sistema , no a la primera sesión narrativa completa. E",
+    "url": "content/session-sesion-00.html"
+  },
+  {
+    "id": "session-sesion-01",
+    "category": "session",
+    "label": "Sesión 01",
+    "title": "Sesión 1 — Llegada a Nimvale",
+    "excerpt": "Sesión 1 — Llegada a Nimvale Resumen Althea Galashield inicia su viaje acompañada por Areitan. Tras siete días a caballo llegan a Nimvale, donde una conversación en una taberna termina reuniendo a varios desconocidos alr",
+    "url": "content/session-sesion-01.html"
+  },
+  {
+    "id": "session-sesion-02",
+    "category": "session",
+    "label": "Sesión 02",
+    "title": "Sesión 2 — Después de la emboscada y el viñedo",
+    "excerpt": "Sesión 2 — Después de la emboscada y el viñedo Sobrevivir una pelea no significa haberla ganado bien. A veces la lección más importante comienza cuando dejan de sonar las armas. Resumen La sesión comenzó inmediatamente d",
+    "url": "content/session-sesion-02.html"
+  },
+  {
+    "id": "session-sesion-03",
+    "category": "session",
+    "label": "Sesión 03",
+    "title": "Sesión 3 — La cabaña del norte",
+    "excerpt": "Sesión 3 — La cabaña del norte La compasión no exige permanecer inmóvil ante la crueldad. A veces proteger una vida significa interponerse entre ella y quien pretende dañarla. Resumen La sesión comenzó en el viñedo de Ba",
+    "url": "content/session-sesion-03.html"
+  },
+  {
+    "id": "session-sesion-04",
+    "category": "session",
+    "label": "Sesión 04",
+    "title": "Sesión 4 — El camino de las arañas y las ruinas de Erindor",
+    "excerpt": "Sesión 4 — El camino de las arañas y las ruinas de Erindor Este registro conserva la cronología objetiva de la sesión. Algunos detalles proceden de escenas separadas y no deben asumirse automáticamente como conocimiento ",
+    "url": "content/session-sesion-04.html"
+  },
+  {
+    "id": "diary-indice-del-diario",
+    "category": "diary",
+    "label": "Índice del Diario",
+    "title": "Diario Galashield",
+    "excerpt": "Diario Galashield El conocimiento puede preservarse en un libro, pero la sabiduría solo puede encontrarse viviendo. El Diario Galashield es el volumen personal que la madre de Althea le entregó antes de su partida de Cae",
+    "url": "content/diary-indice-del-diario.html"
+  },
+  {
+    "id": "diary-regreso-a-caelithar",
+    "category": "diary",
+    "label": "Regreso a Caelithar",
+    "title": "Prólogo — Regreso a Caelithar",
+    "excerpt": "Prólogo — Regreso a Caelithar Habían pasado varios años desde la última vez que vi Caelithar. Conocía de memoria el camino hacia casa. Recordaba la forma de sus torres, la quietud de los jardines y el olor de los salones",
+    "url": "content/diary-regreso-a-caelithar.html"
+  },
+  {
+    "id": "diary-nimvale",
+    "category": "diary",
+    "label": "Nimvale",
+    "title": "Sesión 1 — Nimvale",
+    "excerpt": "Sesión 1 — Nimvale Siete días de camino fueron suficientes para recordarme que conocer la historia de alguien no equivale a conocer a la persona. Areitan carga con un pasado que todavía no comprendo por completo. Nimvale",
+    "url": "content/diary-nimvale.html"
+  },
+  {
+    "id": "diary-el-bosque-y-el-vinedo",
+    "category": "diary",
+    "label": "El bosque y el viñedo",
+    "title": "Sesión 2 — El bosque y el viñedo",
+    "excerpt": "Sesión 2 — El bosque y el viñedo La batalla había terminado, pero el bosque todavía no había terminado con nosotros. Uno de los goblins había sobrevivido. Mientras nosotros atendíamos heridas y tratábamos de comprender c",
+    "url": "content/diary-el-bosque-y-el-vinedo.html"
+  },
+  {
+    "id": "diary-la-cabana-del-norte",
+    "category": "diary",
+    "label": "La cabaña del norte",
+    "title": "Sesión 3 — La cabaña del norte",
+    "excerpt": "Sesión 3 — La cabaña del norte Esperarlos hasta el amanecer habría sido más sencillo. También habría significado dejarles escoger cuándo volver a lastimar a esta gente. Así que no esperamos. Propuse usar la ropa de los t",
+    "url": "content/diary-la-cabana-del-norte.html"
+  },
+  {
+    "id": "diary-el-camino-de-las-aranas-y-erindor",
+    "category": "diary",
+    "label": "El camino de las arañas y Erindor",
+    "title": "Sesión 4 — El camino de las arañas y las ruinas de Erindor",
+    "excerpt": "Sesión 4 — El camino de las arañas y las ruinas de Erindor La celebración comenzó sin que nadie la anunciara. Primero llegaron platos. Después aparecieron conversaciones que ya no trataban de heridas, hombres armados o a",
+    "url": "content/diary-el-camino-de-las-aranas-y-erindor.html"
+  },
+  {
+    "id": "newsletter-en-el-capitulo-pasado-sesion-1",
+    "category": "newsletter",
+    "label": "En el capítulo pasado: sesión 1",
+    "title": "📜 En el capítulo pasado…",
+    "excerpt": "📜 En el capítulo pasado… Eirakar — Sesión 01: La alianza de Nimvale La historia hasta ahora Después de siete días de camino, Althea Galashield y Areitan llegaron a Nimvale. Allí encontraron a Maeroval y Aejaz, que busca",
+    "url": "content/newsletter-en-el-capitulo-pasado-sesion-1.html"
+  },
+  {
+    "id": "newsletter-en-el-capitulo-pasado-sesion-2",
+    "category": "newsletter",
+    "label": "En el capítulo pasado: sesión 2",
+    "title": "📜 En el capítulo pasado…",
+    "excerpt": "📜 En el capítulo pasado… Eirakar — Sesión 02: Heridas entre las vides La historia hasta ahora Después de sobrevivir una emboscada, la compañía descubrió que un goblin huía con parte del botín. Althea intentó detenerlo c",
+    "url": "content/newsletter-en-el-capitulo-pasado-sesion-2.html"
+  },
+  {
+    "id": "newsletter-en-el-capitulo-pasado-sesion-3",
+    "category": "newsletter",
+    "label": "En el capítulo pasado: sesión 3",
+    "title": "📜 En el capítulo pasado…",
+    "excerpt": "📜 En el capítulo pasado… Eirakar — Sesión 03: La cabaña del norte La historia hasta ahora La compañía decidió no esperar al amanecer. Althea vistió ropas de los trabajadores y avanzó con una caja de pan y vino, mientras",
+    "url": "content/newsletter-en-el-capitulo-pasado-sesion-3.html"
+  },
+  {
+    "id": "newsletter-en-el-capitulo-pasado-sesion-4",
+    "category": "newsletter",
+    "label": "En el capítulo pasado: sesión 4",
+    "title": "📜 En el capítulo pasado…",
+    "excerpt": "📜 En el capítulo pasado… Eirakar — Sesión 04: El camino de las arañas La historia hasta ahora El regreso de Aymar convirtió la cena del viñedo en una celebración. Allí la compañía conoció a dos jóvenes tieflings que hab",
+    "url": "content/newsletter-en-el-capitulo-pasado-sesion-4.html"
+  },
+  {
+    "id": "reference-habilidades",
+    "category": "reference",
+    "label": "Habilidades",
+    "title": "Hechizos y habilidades observadas",
+    "excerpt": "Hechizos y habilidades observadas Registro de capacidades que Althea ha visto, utilizado o discutido directamente durante la campaña. No pretende ser una hoja completa de cada personaje. Althea Galashield — Monk / Warrio",
+    "url": "content/reference-habilidades.html"
+  },
+  {
+    "id": "reference-equipo",
+    "category": "reference",
+    "label": "Equipo",
+    "title": "Equipo, botín y objetos relevantes",
+    "excerpt": "Equipo, botín y objetos relevantes Esta página registra objetos vistos, adquiridos o identificados durante la campaña. No implica automáticamente que un objeto pertenezca a Althea; se indica el propietario cuando está co",
+    "url": "content/reference-equipo.html"
+  },
+  {
+    "id": "mystery-misterios",
+    "category": "mystery",
+    "label": "Misterios",
+    "title": "Misterios y preguntas abiertas",
+    "excerpt": "Misterios y preguntas abiertas El libro élfico Estado: activo Primera aparición: Sesión 1 Varias personas buscan con urgencia un libro élfico relacionado de algún modo con Edric Valmor . Falta averiguar Título. Autor. Id",
+    "url": "content/mystery-misterios.html"
+  },
+  {
+    "id": "timeline-cronologia",
+    "category": "timeline",
+    "label": "Cronología",
+    "title": "Cronología",
+    "excerpt": "Cronología Antes de la campaña Althea nace en la noble Casa Galashield de Caelithar. Pasa más de un siglo estudiando historia, filosofía, medicina, religión y textos celestiales. Decide que las bibliotecas no bastan para",
+    "url": "content/timeline-cronologia.html"
+  },
+  {
+    "id": "world-calendario",
+    "category": "world",
+    "label": "Calendario",
+    "title": "Calendario de Eirakar",
+    "excerpt": "Calendario de Eirakar Estructura El calendario conserva la misma estructura que el calendario gregoriano: días de 24 horas, semanas de siete días, doce meses con las mismas duraciones y las mismas reglas para años bisies",
+    "url": "content/world-calendario.html"
+  },
+  {
+    "id": "world-deidades",
+    "category": "world",
+    "label": "Deidades",
+    "title": "Dioses y religiones",
+    "excerpt": "Dioses y religiones Hieroneous Deidad reconocida por Althea a partir del símbolo grabado en la espada de Maeroval. Símbolo Un puño cerrado sosteniendo un rayo . Asociaciones conocidas por Althea Justicia. Honor. Guerra j",
+    "url": "content/world-deidades.html"
+  },
+  {
+    "id": "world-casas-elficas",
+    "category": "world",
+    "label": "Casas élficas",
+    "title": "Grandes casas de Elarion",
+    "excerpt": "Grandes casas de Elarion Información confirmada por el DM durante la Sesión 3 y en conversaciones posteriores. Estas cinco casas fueron descritas como las de mayor impacto político, económico, cultural o militar; pueden ",
+    "url": "content/world-casas-elficas.html"
+  },
+  {
+    "id": "world-lugares",
+    "category": "world",
+    "label": "Lugares",
+    "title": "Lugares de Eirakar",
+    "excerpt": "Lugares de Eirakar Mapa canónico actual Mapa canónico actual del reino y territorios vecinos La versión navegable y sus criterios de uso se conservan en Mapas. Este mapa fija la posición relativa actualmente conocida de ",
+    "url": "content/world-lugares.html"
+  }
+]
