@@ -1,0 +1,21 @@
+{
+  "status": "PASS",
+  "routes": 38,
+  "documents": 28,
+  "chronicles": 4,
+  "characters": 6,
+  "gallery": {
+    "canonical": 10,
+    "historical": 8,
+    "wip": 8,
+    "rejected": 2
+  },
+  "media": {
+    "audio": 6,
+    "videos": 12,
+    "images": 28
+  },
+  "rssItems": 4,
+  "warnings": [],
+  "failures": []
+}
