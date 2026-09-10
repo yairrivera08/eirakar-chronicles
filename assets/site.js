@@ -6,3 +6,29 @@ async function archive(){const box=$('#archive-results');if(!box)return;const da
 async function gallery(){const grid=$('#gallery-grid');if(!grid)return;const data=await fetch('assets/gallery-index.json').then(r=>r.json()),dialog=$('#lightbox'),names={canonical:'Canonical',historical:'Historical',wip:'WIP',rejected:'Rejected'};grid.innerHTML=data.map((x,i)=>`<button data-i="${i}" class="status-${x.status}"><span class="media-badge">&lt;${names[x.status]}&gt;</span><img loading="lazy" src="${x.src}" alt="${x.label}"><span class="media-label">${x.label}</span></button>`).join('');$$('button',grid).forEach(b=>b.onclick=()=>{const x=data[+b.dataset.i];$('img',dialog).src=x.src;$('img',dialog).alt=x.label;$('p',dialog).textContent=`<${names[x.status]}> ${x.label}`;dialog.showModal()});$('button',dialog).onclick=()=>dialog.close();dialog.onclick=e=>{if(e.target===dialog)dialog.close()}}
 async function cinema(){const grid=$('#video-grid');if(!grid)return;const data=await fetch('assets/video-index.json').then(r=>r.json());grid.innerHTML=data.map((x,i)=>`<article><video controls preload="metadata" poster="assets/images/party-campfire.jpg"><source src="assets/media/videos/${x}" type="video/mp4"></video><span>Secuencia ${String(i).padStart(2,'0')}</span><h2>${x.replace(/^\d+_/,'').replace(/_/g,' ').replace('.mp4','')}</h2></article>`).join('')}
 archive();gallery();cinema();
+
+function interactiveAtlas(){
+  const atlas=$('#atlas');if(!atlas)return;
+  const details={caelithar:['Caelithar','Regreso de Althea a su hogar.'],nimvale:['Nimvale','La alianza toma forma.'],vinedo:['El viñedo','Una comunidad herida pide ayuda · posición aproximada.'],cabana:['La cabaña del norte','Aymar vuelve con su familia · posición aproximada.'],erindor:['Erindor','Una puerta nueva espera · posición aproximada.']};
+  const controls=$$('[data-stop]',atlas);
+  function select(id){
+    const [title,copy]=details[id];$('#map-stop-title').textContent=title;$('#map-stop-copy').textContent=copy;
+    controls.forEach(control=>control.classList.toggle('active',control.dataset.stop===id));
+  }
+  controls.forEach(control=>control.addEventListener('click',()=>select(control.dataset.stop)));select('erindor');
+  $$('[data-map-filter]',atlas).forEach(filter=>filter.addEventListener('click',()=>{
+    const category=filter.dataset.mapFilter;$$('[data-map-filter]',atlas).forEach(item=>item.classList.toggle('active',item===filter));
+    $$('.map-stop',atlas).forEach(stop=>stop.hidden=category!=='all'&&!stop.dataset.category.split(' ').includes(category));
+  }));
+}
+
+function diaryPlayer(){
+  const audio=$('#diary-audio');if(!audio)return;
+  const entries=$$('.diary-entry');
+  entries.forEach(entry=>entry.addEventListener('click',()=>{
+    const wasPlaying=!audio.paused;audio.src=entry.dataset.src;$('#diary-now-label').textContent=entry.dataset.label;$('#diary-now-title').textContent=entry.dataset.title;$('#diary-download').href=entry.dataset.src;
+    entries.forEach(item=>item.classList.toggle('active',item===entry));audio.load();if(wasPlaying)audio.play().catch(()=>{});
+  }));
+}
+
+interactiveAtlas();diaryPlayer();

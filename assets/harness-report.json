@@ -16,6 +16,8 @@
     "images": 28
   },
   "rssItems": 4,
-  "warnings": [],
+  "warnings": [
+    "RSS visible label missing"
+  ],
   "failures": []
 }
