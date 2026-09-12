@@ -80,6 +80,14 @@
     "url": "content/session-sesion-04.html"
   },
   {
+    "id": "session-sesion-05",
+    "category": "session",
+    "label": "Sesión 05",
+    "title": "Sesión 5 — La danza de piedra",
+    "excerpt": "Sesión 5 — La danza de piedra Continuación directa de la tarde del 24 de Solmar de 1310. Este registro conserva hechos observables de la sesión; la perspectiva limitada de Althea continúa en la misma entrada del Diario G",
+    "url": "content/session-sesion-05.html"
+  },
+  {
     "id": "diary-indice-del-diario",
     "category": "diary",
     "label": "Índice del Diario",
@@ -158,6 +166,14 @@
     "title": "📜 En el capítulo pasado…",
     "excerpt": "📜 En el capítulo pasado… Eirakar — Sesión 04: El camino de las arañas La historia hasta ahora El regreso de Aymar convirtió la cena del viñedo en una celebración. Allí la compañía conoció a dos jóvenes tieflings que hab",
     "url": "content/newsletter-en-el-capitulo-pasado-sesion-4.html"
+  },
+  {
+    "id": "newsletter-en-el-capitulo-pasado-sesion-5",
+    "category": "newsletter",
+    "label": "En el capítulo pasado: sesión 5",
+    "title": "📜 En el capítulo pasado…",
+    "excerpt": "📜 En el capítulo pasado… Eirakar — Sesión 05: La danza de piedra La historia hasta ahora La compañía permaneció en Erindor durante la misma tarde en que conoció a Lugh. Cerca de la fuente encontró un caballo desconocido",
+    "url": "content/newsletter-en-el-capitulo-pasado-sesion-5.html"
   },
   {
     "id": "reference-habilidades",
